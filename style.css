@@ -1,7 +1,7 @@
         body{
             background-image: url("10652200.jpg");
             background-repeat: no-repeat;
-            background-size:auto;
+            background-size:cover;
         }
         .center {
             text-align: center;
@@ -19,3 +19,4 @@
         }
 
         
+
