@@ -1,5 +1,5 @@
         body{
-            background-image:url("C:/Users/Ken/OneDrive/Documents/TUGAS/img/bckgrnd .jpg");
+            background-image:url("bckgrnd .jpg");
             background-repeat: no-repeat;
         }
         .center {
@@ -16,4 +16,5 @@
         hr {
             border-top: 2px solid #000000;
         }
+
         
